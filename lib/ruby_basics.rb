@@ -12,8 +12,8 @@ def argue(foo)
   
 end
 
-def greeting(greeting, name)
-  return "#{greeting}, #{name}"
+def greeting(greet, name)
+  return "#{greet}, #{name}"
 end
 
 def return_a_value
